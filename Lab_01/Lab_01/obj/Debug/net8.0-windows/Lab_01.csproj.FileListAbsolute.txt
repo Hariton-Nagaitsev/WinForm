@@ -1,0 +1,17 @@
+C:\ITMO\C#\Lab_01\Lab_01\bin\Debug\net8.0-windows\Lab_01.exe
+C:\ITMO\C#\Lab_01\Lab_01\bin\Debug\net8.0-windows\Lab_01.deps.json
+C:\ITMO\C#\Lab_01\Lab_01\bin\Debug\net8.0-windows\Lab_01.runtimeconfig.json
+C:\ITMO\C#\Lab_01\Lab_01\bin\Debug\net8.0-windows\Lab_01.dll
+C:\ITMO\C#\Lab_01\Lab_01\bin\Debug\net8.0-windows\Lab_01.pdb
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.Form1.resources
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.AssemblyInfo.cs
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.dll
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\refint\Lab_01.dll
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.pdb
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.genruntimeconfig.cache
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\ref\Lab_01.dll
+C:\ITMO\C#\Lab_01\Lab_01\obj\Debug\net8.0-windows\Lab_01.nForm.resources

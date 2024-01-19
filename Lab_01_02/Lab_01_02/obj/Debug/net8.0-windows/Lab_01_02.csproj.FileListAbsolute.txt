@@ -1,0 +1,17 @@
+C:\ITMO\C#\Lab_01_02\Lab_01_02\bin\Debug\net8.0-windows\Lab_01_02.exe
+C:\ITMO\C#\Lab_01_02\Lab_01_02\bin\Debug\net8.0-windows\Lab_01_02.deps.json
+C:\ITMO\C#\Lab_01_02\Lab_01_02\bin\Debug\net8.0-windows\Lab_01_02.runtimeconfig.json
+C:\ITMO\C#\Lab_01_02\Lab_01_02\bin\Debug\net8.0-windows\Lab_01_02.dll
+C:\ITMO\C#\Lab_01_02\Lab_01_02\bin\Debug\net8.0-windows\Lab_01_02.pdb
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.Form1.resources
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.AssemblyInfo.cs
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.dll
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\refint\Lab_01_02.dll
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.pdb
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.genruntimeconfig.cache
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\ref\Lab_01_02.dll
+C:\ITMO\C#\Lab_01_02\Lab_01_02\obj\Debug\net8.0-windows\Lab_01_02.nForm.resources

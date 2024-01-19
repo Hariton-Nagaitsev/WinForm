@@ -1,0 +1,16 @@
+C:\ITMO\C#\Lab1_05\bin\Debug\net8.0-windows\Lab1_05.exe
+C:\ITMO\C#\Lab1_05\bin\Debug\net8.0-windows\Lab1_05.deps.json
+C:\ITMO\C#\Lab1_05\bin\Debug\net8.0-windows\Lab1_05.runtimeconfig.json
+C:\ITMO\C#\Lab1_05\bin\Debug\net8.0-windows\Lab1_05.dll
+C:\ITMO\C#\Lab1_05\bin\Debug\net8.0-windows\Lab1_05.pdb
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.Form1.resources
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.AssemblyInfo.cs
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.dll
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\refint\Lab1_05.dll
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.pdb
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\Lab1_05.genruntimeconfig.cache
+C:\ITMO\C#\Lab1_05\obj\Debug\net8.0-windows\ref\Lab1_05.dll
