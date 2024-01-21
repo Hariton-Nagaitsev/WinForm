@@ -1,0 +1,17 @@
+C:\ITMO\C#\Lab02_06_BiblWorm\bin\Debug\net8.0-windows\Lab02_06_BiblWorm.exe
+C:\ITMO\C#\Lab02_06_BiblWorm\bin\Debug\net8.0-windows\Lab02_06_BiblWorm.deps.json
+C:\ITMO\C#\Lab02_06_BiblWorm\bin\Debug\net8.0-windows\Lab02_06_BiblWorm.runtimeconfig.json
+C:\ITMO\C#\Lab02_06_BiblWorm\bin\Debug\net8.0-windows\Lab02_06_BiblWorm.dll
+C:\ITMO\C#\Lab02_06_BiblWorm\bin\Debug\net8.0-windows\Lab02_06_BiblWorm.pdb
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.Form1.resources
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.AssemblyInfo.cs
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.sourcelink.json
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.dll
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\refint\Lab02_06_BiblWorm.dll
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.pdb
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\Lab02_06_BiblWorm.genruntimeconfig.cache
+C:\ITMO\C#\Lab02_06_BiblWorm\obj\Debug\net8.0-windows\ref\Lab02_06_BiblWorm.dll

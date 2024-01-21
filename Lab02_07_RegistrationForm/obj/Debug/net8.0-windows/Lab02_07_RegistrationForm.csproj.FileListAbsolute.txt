@@ -1,0 +1,17 @@
+C:\ITMO\C#\Lab02_07_RegistrationForm\bin\Debug\net8.0-windows\Lab02_07_RegistrationForm.exe
+C:\ITMO\C#\Lab02_07_RegistrationForm\bin\Debug\net8.0-windows\Lab02_07_RegistrationForm.deps.json
+C:\ITMO\C#\Lab02_07_RegistrationForm\bin\Debug\net8.0-windows\Lab02_07_RegistrationForm.runtimeconfig.json
+C:\ITMO\C#\Lab02_07_RegistrationForm\bin\Debug\net8.0-windows\Lab02_07_RegistrationForm.dll
+C:\ITMO\C#\Lab02_07_RegistrationForm\bin\Debug\net8.0-windows\Lab02_07_RegistrationForm.pdb
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.Form1.resources
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.AssemblyInfo.cs
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.sourcelink.json
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.dll
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\refint\Lab02_07_RegistrationForm.dll
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.pdb
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\Lab02_07_RegistrationForm.genruntimeconfig.cache
+C:\ITMO\C#\Lab02_07_RegistrationForm\obj\Debug\net8.0-windows\ref\Lab02_07_RegistrationForm.dll

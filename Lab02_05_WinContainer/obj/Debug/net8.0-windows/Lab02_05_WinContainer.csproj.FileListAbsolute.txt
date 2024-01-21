@@ -1,0 +1,17 @@
+C:\ITMO\C#\Lab02_05_WinContainer\bin\Debug\net8.0-windows\Lab02_05_WinContainer.exe
+C:\ITMO\C#\Lab02_05_WinContainer\bin\Debug\net8.0-windows\Lab02_05_WinContainer.deps.json
+C:\ITMO\C#\Lab02_05_WinContainer\bin\Debug\net8.0-windows\Lab02_05_WinContainer.runtimeconfig.json
+C:\ITMO\C#\Lab02_05_WinContainer\bin\Debug\net8.0-windows\Lab02_05_WinContainer.dll
+C:\ITMO\C#\Lab02_05_WinContainer\bin\Debug\net8.0-windows\Lab02_05_WinContainer.pdb
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.Form1.resources
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.csproj.GenerateResource.cache
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.AssemblyInfoInputs.cache
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.AssemblyInfo.cs
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.csproj.CoreCompileInputs.cache
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.sourcelink.json
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.dll
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\refint\Lab02_05_WinContainer.dll
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.pdb
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\Lab02_05_WinContainer.genruntimeconfig.cache
+C:\ITMO\C#\Lab02_05_WinContainer\obj\Debug\net8.0-windows\ref\Lab02_05_WinContainer.dll
