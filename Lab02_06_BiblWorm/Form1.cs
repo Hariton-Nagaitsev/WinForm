@@ -1,5 +1,8 @@
 using MyClass;
+using System.Numerics;
+using System.Security.Policy;
 using System.Text;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Lab02_06_BiblWorm
 {
@@ -42,6 +45,58 @@ namespace Lab02_06_BiblWorm
             richTextBox1.Text = sb.ToString();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Magazine b = new Magazine(Volume, Numbers, Titles, Years, InvNumbers, Existences);
+            if (Returns)
+                b.ReturnSrok1();
+            b.Subs();
+            its.Add(b);
+            Volume = Numbers = InvNumbers = 1;
+            Titles = "";
+            Years = 1700;
+            Existences = Returns = false;
+        }
+
+        public bool Returns // Возвращение в срок
+        {
+            get { return checkBox5.Checked; }
+            set { checkBox5.Checked = value; }
+        }
+
+        public bool Existences // Наличие
+        {
+            get { return checkBox4.Checked; }
+            set { checkBox4.Checked = value; }
+        }
+
+        public int InvNumbers // Инвентарный номер журналов
+        {
+            get { return (int)numericUpDown7.Value; }
+            set { numericUpDown7.Value = value; }
+        }
+
+        public int Years // Дата выпуска
+        {
+            get { return (int)numericUpDown6.Value; }
+            set { numericUpDown6.Value = value; }
+        }
+        public string Titles // Название
+        {
+            get { return textBox6.Text; }
+            set { textBox6.Text = value; }
+        }
+
+        public int Numbers // Номер
+        {
+            get { return (int)numericUpDown5.Value; }
+            set { numericUpDown5.Value = value; }
+        }
+        public int Volume // Том
+        {
+            get { return (int)numericUpDown9.Value; }
+            set { numericUpDown9.Value = value; }
+        }
         public string Author // автор
         {
             get { return textBox1.Text; }
@@ -79,7 +134,7 @@ namespace Lab02_06_BiblWorm
             get { return checkBox1.Checked; }
             set { checkBox1.Checked = value; }
         }
-        public bool SortInvNumber // Сортировка по инвентарному номеру
+        public bool SortInvNumber // Сортировка по инвентарному номеру 
         {
             get { return checkBox2.Checked; }
             set { checkBox2.Checked = value; }
