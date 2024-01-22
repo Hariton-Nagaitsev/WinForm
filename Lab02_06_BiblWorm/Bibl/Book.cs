@@ -52,7 +52,6 @@ namespace MyClass
             else
                 return "\nКнига:\n Автор: " + author +"\n Название: " + title +
             "\n Год издания: " + year + "., " + pages + " стр. \n Стоимость аренды: " + Book.price + " p.\n" + base.ToString();
-
         }
 
         public void PriceBook(int s)
