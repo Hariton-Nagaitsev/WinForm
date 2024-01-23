@@ -44,6 +44,7 @@ namespace MyClass
 
         public void Subs()
       {
+            IfSubs = true; // устанавливаем флаг подписки в true
             // действия при оформлении подписки на журнал
         }
         public override string ToString()
